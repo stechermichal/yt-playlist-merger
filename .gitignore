@@ -41,3 +41,8 @@ testem.log
 .DS_Store
 Thumbs.db
 .vercel
+
+# Ignore all .env files
+.env*
+src/app/environment.ts
+/src/app/environment.ts
